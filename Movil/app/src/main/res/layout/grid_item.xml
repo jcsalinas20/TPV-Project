@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp">
+
+    <ImageButton
+        android:id="@+id/imagen_camarero"
+        android:layout_width="match_parent"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/imageview_rounded"
+        android:layout_height="146dp"
+        android:scaleType="centerCrop"
+        android:transitionName="Carlos" />
+
+    <TextView
+        android:id="@+id/nombre_camarero"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:maxLines="1"
+        android:padding="16dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp" />
+
+</FrameLayout>

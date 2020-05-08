@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proyecto-Bar-Reinols-Movil</string>
+    <string name="tornar">TORNAR</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="preu_total">Preu Total:</string>
+</resources>

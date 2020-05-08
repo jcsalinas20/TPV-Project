@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Login">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/button2_background"
+        android:gravity="center"
+        android:paddingTop="25px"
+        android:paddingBottom="30px"
+        android:text="Camareros"
+        android:textColor="@android:color/black"
+        android:textSize="40sp" />
+
+    <GridView
+        android:id="@+id/grid"
+        android:layout_width="match_parent"
+        android:layout_height="453dp"
+        android:layout_marginTop="30dp"
+        android:columnWidth="120dp"
+        android:horizontalSpacing="20px"
+        android:numColumns="auto_fit"
+        android:padding="20px"
+        android:verticalSpacing="20px" />
+
+</LinearLayout>

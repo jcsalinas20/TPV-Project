@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <numero-de-mesas>1</numero-de-mesas>
+    <ip-server>192.168.40.125</ip-server>
+    <nombre-pda>PDA-1</nombre-pda>
+</config>

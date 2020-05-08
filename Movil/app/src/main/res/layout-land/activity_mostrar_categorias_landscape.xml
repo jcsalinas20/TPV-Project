@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MostrarCategorias">
+
+    <TextView
+        android:id="@+id/titleCategoria"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:layout_marginTop="00dp"
+        android:background="@drawable/button2_background"
+        android:gravity="center"
+        android:text="Categorias"
+        android:textColor="@android:color/black"
+        android:textSize="30sp" />
+
+    <GridView
+        android:id="@+id/grid"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:columnWidth="50dp"
+        android:gravity="center"
+        android:horizontalSpacing="10px"
+        android:numColumns="4"
+        android:padding="50px"
+        android:verticalSpacing="20px" />
+
+    <Button
+        android:id="@+id/btnRevisarPedido"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button_background"
+        android:text="revisar pedido"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+</LinearLayout>

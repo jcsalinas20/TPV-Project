@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><comanda>
+<camarero nombre="Pablo"/>
+
+
+<producte><nombreProducto>Frankfurt</nombreProducto><cantidad>4</cantidad><precio>2.65</precio></producte><producte><nombreProducto>Bacon</nombreProducto><cantidad>3</cantidad><precio>2.65</precio></producte><producte><nombreProducto>Bikini</nombreProducto><cantidad>3</cantidad><precio>3.20</precio></producte><producte><nombreProducto>Pollo a la plancha</nombreProducto><cantidad>2</cantidad><precio>3.35</precio></producte><producte><nombreProducto>Lomo de ternera</nombreProducto><cantidad>2</cantidad><precio>3.35</precio></producte></comanda>

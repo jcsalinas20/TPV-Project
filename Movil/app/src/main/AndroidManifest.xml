@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.proyecto_bar_reinols_movil">
+
+    <uses-feature android:name="android.hardware.camera2" android:required="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".Registrarse" android:configChanges="orientation|screenSize|keyboard|keyboardHidden"></activity>
+        <activity android:name=".MainActivity" android:configChanges="orientation|screenSize|keyboard|keyboardHidden" />
+        <activity android:name=".OpcionesMesa" android:configChanges="orientation|screenSize|keyboard|keyboardHidden"/>
+        <activity android:name=".MostrarMesas" android:configChanges="orientation|screenSize|keyboard|keyboardHidden" />
+        <activity android:name=".Login" android:configChanges="orientation|screenSize|keyboard|keyboardHidden"/>
+        <activity android:name=".MostrarCategorias" android:configChanges="orientation|screenSize|keyboard|keyboardHidden"/>
+        <activity android:name=".ComandasAdapter" android:configChanges="orientation|screenSize|keyboard|keyboardHidden"/>
+        <activity android:name=".MostrarComandaMesa" android:configChanges="orientation|screenSize|keyboard|keyboardHidden" />
+        <activity android:name=".MostrarProductos" android:configChanges="orientation|screenSize|keyboard|keyboardHidden" />
+        <activity android:name=".ConexionServer" />
+        <activity
+            android:name=".splash_activity"
+            android:theme="@style/Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.proyecto_bar_reinols_movil"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+    </application>
+
+</manifest>

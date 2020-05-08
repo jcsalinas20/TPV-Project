@@ -1,0 +1,2 @@
+include ':app', ':lipermi-1.0.1'
+rootProject.name='Proyecto-Bar-Reinols-Movil'

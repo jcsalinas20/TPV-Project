@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><comanda>
+<camarero nombre="Josu"/>
+
+
+<producte><nombreProducto>Picante</nombreProducto><cantidad>8</cantidad><precio>3.35</precio></producte><producte><nombreProducto>Simple</nombreProducto><cantidad>2</cantidad><precio>2.00</precio></producte><producte><nombreProducto>Cerdo</nombreProducto><cantidad>3</cantidad><precio>3.35</precio></producte><producte><nombreProducto>Frankfurt</nombreProducto><cantidad>3</cantidad><precio>2.65</precio></producte></comanda>

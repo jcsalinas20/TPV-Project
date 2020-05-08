@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <!--ip-server>192.168.137.1</ip-server-->
+    <!--ip-server>192.168.1.23</ip-server-->
+    <ip-server>192.168.40.205</ip-server>
+    <nombre-pda>PDA-1</nombre-pda>
+</config>

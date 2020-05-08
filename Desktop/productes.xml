@@ -1,0 +1,285 @@
+<?xml version="1.0" ?>
+<bar_reynols>
+    <categorias>
+        <categoria nombre="Tapas">
+            <productos>
+                <producto ID="1">
+                    <nombre>Patatas fritas</nombre>
+                    <precio>2.45</precio>
+                    <descripcion>Patatas fritas en aceite caliente y con sal.</descripcion>
+                    <imagen>tapas/patatas_fritas.jpg</imagen>
+                </producto>
+                <producto ID="2">
+                    <nombre>Patatas Bravas</nombre>
+                    <precio>3.20</precio>
+                    <descripcion>Patatas en forma de dados fritas y con sal, también acompañada de salsa brava(picante).</descripcion>
+                    <imagen>tapas/patatas_bravas.jpg</imagen>
+                </producto>
+                <producto ID="3">
+                    <nombre>Nuggets</nombre>
+                    <precio>3.20</precio>
+                    <descripcion>Nuggets fritos de pollo picado y rebozado con pan rallado, acompañado con salsa barbacoa.</descripcion>
+                    <imagen>tapas/nuggets.jpg</imagen>
+                </producto>
+                <producto ID="4">
+                    <nombre>Calamares a la romana</nombre>
+                    <precio>4.00</precio>
+                    <descripcion>Calamares fritos en rodajas y acompañado de un limón.</descripcion>
+                    <imagen>tapas/calamares_a_la_romana.jpg</imagen>
+                </producto>
+                <producto ID="5">
+                    <nombre>Croquetas</nombre>
+                    <precio>4.50</precio>
+                    <descripcion>Croquetas fritas con bechamel y pan rallado.</descripcion>
+                    <imagen>tapas/croquetas.jpg</imagen>
+                </producto>
+                <producto ID="6">
+                    <nombre>Morro frito</nombre>
+                    <precio>4.50</precio>
+                    <descripcion>Morro de cerdo frito con un poco de sal</descripcion>
+                    <imagen>tapas/morro_frito.jpg</imagen>
+                </producto>
+            </productos>
+        </categoria>
+        <categoria nombre="Bocadillos">
+            <productos>
+                <producto ID="7">
+                    <nombre>Frankfurt</nombre>
+                    <precio>2.65</precio>
+                    <descripcion>Pan de Frankfurt con Frankfurt.</descripcion>
+                    <imagen>bocadillos/frankfurt.jpg</imagen>
+                </producto>
+                <producto ID="8">
+                    <nombre>Bacon</nombre>
+                    <precio>2.65</precio>
+                    <descripcion>Pan de baguette con bacon frito.</descripcion>
+                    <imagen>bocadillos/bacon.jpg</imagen>
+                </producto>
+                <producto ID="9">
+                    <nombre>Bikini</nombre>
+                    <precio>3.20</precio>
+                    <descripcion>Pan bimbo a la plancha con jamón dulce y queso.</descripcion>
+                    <imagen>bocadillos/bikini.jpg</imagen>
+                </producto>
+                <producto ID="10">
+                    <nombre>Tortilla francesa</nombre>
+                    <precio>3.20</precio>
+                    <descripcion>Pan de baguette con tortilla francesa de 2 huevos.</descripcion>
+                    <imagen>bocadillos/tortilla.jpg</imagen>
+                </producto>
+                <producto ID="11">
+                    <nombre>Lomo de ternera</nombre>
+                    <precio>3.35</precio>
+                    <descripcion>Pan de baguette con lomo a la plancha.</descripcion>
+                    <imagen>bocadillos/lomo.jpg</imagen>
+                </producto>
+                <producto ID="12">
+                    <nombre>Pollo a la plancha</nombre>
+                    <precio>3.35</precio>
+                    <descripcion>Pan de baguette con pollo a la plancha.</descripcion>
+                    <imagen>bocadillos/pollo.jpg</imagen>
+                </producto>
+            </productos>
+        </categoria>
+        <categoria nombre="Hamburgesas">
+            <productos>
+                <producto ID="13">
+                    <nombre>Simple</nombre>
+                    <precio>2.00</precio>
+                    <descripcion>Pan con carne de vacuno.</descripcion>
+                    <imagen>hamburguesas/simple.jpg</imagen>
+                </producto>
+                <producto ID="14">
+                    <nombre>Picante</nombre>
+                    <precio>3.35</precio>
+                    <descripcion>Pan, Salsa de tomate, 1 huevo, tabasco y pimienta negra molida.</descripcion>
+                    <imagen>hamburguesas/picante.jpg</imagen>
+                </producto>
+                <producto ID="15">
+                    <nombre>Cerdo</nombre>
+                    <precio>3.35</precio>
+                    <descripcion>Pan, Carne de cerdo picada, cebolla, tomate, lechuga, mayonesa, pimienta negra molida.</descripcion>
+                    <imagen>hamburguesas/cerdo.jpg</imagen>
+                </producto>
+                <producto ID="16">
+                    <nombre>Pollo</nombre>
+                    <precio>3.80</precio>
+                    <descripcion>Pan, queso fundido, pollo, tomate, mayonesa.</descripcion>
+                    <imagen>hamburguesas/pollo.jpg</imagen>
+                </producto>
+                <producto ID="17">
+                    <nombre>Barbacoa</nombre>
+                    <precio>4.50</precio>
+                    <descripcion>Pan, carne de vacuno, salsa barbacoa, queso y pepinillo.</descripcion>
+                    <imagen>hamburguesas/bbq.jpg</imagen>
+                </producto>
+                <producto ID="18">
+                    <nombre>Vegana</nombre>
+                    <precio>4.95</precio>
+                    <descripcion>Pan, garbanzo seco, espinaca freca, maíz cocido, pimiento rojo, pimienta negra molida.</descripcion>
+                    <imagen>hamburguesas/vegana.jpg</imagen>
+                </producto>
+            </productos>
+        </categoria>
+        <categoria nombre="Ensaladas">
+            <productos>
+                <producto ID="19">
+                    <nombre>Caprese</nombre>
+                    <precio>4.00</precio>
+                    <descripcion>Mozzarella, tomate y hojas de albahaca.</descripcion>
+                    <imagen>ensaladas/caprese.jpg</imagen>
+                </producto>
+                <producto ID="20">
+                    <nombre>Mixta</nombre>
+                    <precio>4.00</precio>
+                    <descripcion>Lechuga, Tomate, Cebolla, atún, queso, jamón.</descripcion>
+                    <imagen>ensaladas/mixta.jpg</imagen>
+                </producto>
+                <producto ID="21">
+                    <nombre>Mediterranea Tuna</nombre>
+                    <precio>4.50</precio>
+                    <descripcion>Lechuga, tomate, aceitunas, atún, cebolla.</descripcion>
+                    <imagen>ensaladas/mediterranea_tuna.jpg</imagen>
+                </producto>
+                <producto ID="22">
+                    <nombre>Waldorf</nombre>
+                    <precio>4.50</precio>
+                    <descripcion>Manzana, nueces, apio, lechuga, pasas y mayonesa,</descripcion>
+                    <imagen>ensaladas/waldorf.jpg</imagen>
+                </producto>
+                <producto ID="23">
+                    <nombre>Griega</nombre>
+                    <precio>5.00</precio>
+                    <descripcion>Tomate, cebolla, pepino, pimiento, queso feta y aceitunas negras.</descripcion>
+                    <imagen>ensaladas/griega.jpg</imagen>
+                </producto>
+                <producto ID="24">
+                    <nombre>Cesar</nombre>
+                    <precio>5.75</precio>
+                    <descripcion>Lechuga, huevo cocido, queso parmesano, mostaza, diente de ajo, picatostes, pechugas de pollo, tomate cherrys, salsa cesar.</descripcion>
+                    <imagen>ensaladas/cesar.jpg</imagen>
+                </producto>
+            </productos>
+        </categoria>
+        <categoria nombre="Bebidas">
+            <productos>
+                <producto ID="25">
+                    <nombre>Agua</nombre>
+                    <precio>1.30</precio>
+                    <descripcion>Agua botella pequeña.</descripcion>
+                    <imagen>bebidas/agua.jpg</imagen>
+                </producto>
+                <producto ID="26">
+                    <nombre>Coca Cola</nombre>
+                    <precio>1.70</precio>
+                    <descripcion>Coca Cola de lata.</descripcion>
+                    <imagen>bebidas/coca_cola.jpg</imagen>
+                </producto>
+                <producto ID="27">
+                    <nombre>Coca Cola Zero</nombre>
+                    <precio>1.70</precio>
+                    <descripcion>Coca Cola Zero de lata.</descripcion>
+                    <imagen>bebidas/coca_cola_zero.jpg</imagen>
+                </producto>
+                <producto ID="28">
+                    <nombre>Nestea</nombre>
+                    <precio>1.70</precio>
+                    <descripcion>Nestea de lata.</descripcion>
+                    <imagen>bebidas/nestea.jpg</imagen>
+                </producto>
+                <producto ID="29">
+                    <nombre>Fanta de naranja</nombre>
+                    <precio>1.70</precio>
+                    <descripcion>Fanta de naranja de lata.</descripcion>
+                    <imagen>bebidas/fanta_naranja.jpg</imagen>
+                </producto>
+                <producto ID="30">
+                    <nombre>Trinaranjus</nombre>
+                    <precio>1.70</precio>
+                    <descripcion>Trinaranjus de lata.</descripcion>
+                    <imagen>bebidas/trinaranjus.jpg</imagen>
+                </producto>
+            </productos>
+        </categoria>
+        <categoria nombre="Cafes">
+            <productos>
+                <producto ID="31">
+                    <nombre>Café</nombre>
+                    <precio>1.05</precio>
+                    <descripcion>Café.</descripcion>
+                    <imagen>cafes/cafe.jpg</imagen>
+                </producto>
+                <producto ID="32">
+                    <nombre>Cortado</nombre>
+                    <precio>1.15</precio>
+                    <descripcion>Cortado.</descripcion>
+                    <imagen>cafes/cortado.jpg</imagen>
+                </producto>
+                <producto ID="33">
+                    <nombre>Café con hielo</nombre>
+                    <precio>1.15</precio>
+                    <descripcion>Café con hielo.</descripcion>
+                    <imagen>cafes/cafe_con_hielo.jpg</imagen>
+                </producto>
+                <producto ID="34">
+                    <nombre>Cortado con hielo</nombre>
+                    <precio>1.25</precio>
+                    <descripcion>Cortado con hielo.</descripcion>
+                    <imagen>cafes/cortado_con_hielo.jpg</imagen>
+                </producto>
+                <producto ID="35">
+                    <nombre>Café con leche</nombre>
+                    <precio>1.35</precio>
+                    <descripcion>Café con leche.</descripcion>
+                    <imagen>cafes/cafe_con_leche.jpg</imagen>
+                </producto>
+                <producto ID="36">
+                    <nombre>Infusión de manzanilla</nombre>
+                    <precio>1.35</precio>
+                    <descripcion>Infusión de manzanilla.</descripcion>
+                    <imagen>cafes/infusion_manzanilla.jpg</imagen>
+                </producto>
+            </productos>
+        </categoria>
+        <categoria nombre="Postres">
+            <productos>
+                <producto ID="37">
+                    <nombre>Flan de huevo</nombre>
+                    <precio>3.00</precio>
+                    <descripcion>Flan de huevo sin azúcar y sin lactosa.</descripcion>
+                    <imagen>postres/flan_de_huevo.jpg</imagen>
+                </producto>
+                <producto ID="38">
+                    <nombre>Crema Catalana</nombre>
+                    <precio>3.20</precio>
+                    <descripcion>Crema catalana de mango.</descripcion>
+                    <imagen>postres/crema_catalana.jpg</imagen>
+                </producto>
+                <producto ID="39">
+                    <nombre>Bizcocho de yogur</nombre>
+                    <precio>3.20</precio>
+                    <descripcion>Bizcocho de yogur.</descripcion>
+                    <imagen>postres/bizcocho_de_yogur.jpg</imagen>
+                </producto>
+                <producto ID="40">
+                    <nombre>Crema helada</nombre>
+                    <precio>3.50</precio>
+                    <descripcion>Crema helada de naranja y merengue.</descripcion>
+                    <imagen>postres/crema_helada.jpg</imagen>
+                </producto>
+                <producto ID="41">
+                    <nombre>Mousse de chocolate blanco</nombre>
+                    <precio>4.00</precio>
+                    <descripcion>Mousse de chocolate blanco y yogur con gelatina de melocotón.</descripcion>
+                    <imagen>postres/mousse.jpg</imagen>
+                </producto>
+                <producto ID="42">
+                    <nombre>Tarta helada de limón</nombre>
+                    <precio>4.00</precio>
+                    <descripcion>Tarta helada de limón y leche condensada.</descripcion>
+                    <imagen>postres/tarta_helada.jpg</imagen>
+                </producto>
+            </productos>
+        </categoria>
+    </categorias>
+</bar_reynols>

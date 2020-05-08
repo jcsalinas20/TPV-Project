@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/colorPrimaryDark"/>
+    <item> <bitmap android:scaleType="fitXY"
+        android:adjustViewBounds="true" android:src="@drawable/logo_apojosu12x1080"/>
+    </item>
+</layer-list>
