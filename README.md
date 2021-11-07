@@ -8,14 +8,14 @@ TPV Bar Project with collaborators [@Ateles84](https://github.com/Ateles84) and 
 
 * ### Desktop app with Java 8.
 
-![barra](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/desktop/barra.png)
+![barra](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/images/desktop/barra.png)
 
-![cocina](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/desktop/cocina.png)
+![cocina](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/images/desktop/cocina.png)
 
 * ### Mobile app with Java Android Studio.
 
-![main](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/mobile/index.png)
-![camareros](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/mobile/camareros.png)
-![listado](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/mobile/listado.png)
-![mesa1](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/mobile/mesa.png)
-![comanda](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/mobile/comanda.png)
+![main](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/images/mobile/index.png)
+![camareros](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/images/mobile/camareros.png)
+![listado](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/images/mobile/listado.png)
+![mesa1](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/images/mobile/mesa.png)
+![comanda](https://raw.githubusercontent.com/jcsalinas20/TPV-Project/master/images/mobile/comanda.png)
